@@ -1,4 +1,4 @@
-# Добовляет файл лицензии в файлы .py и .sh проэкта.
+# Добовляет файл лицензии в файлы .py и .sh проекта.
 ## Пример использования
 ```bash
 # Example use script: ./add_license.sh [-h help] [-f ./license ] [-autor 'Oleg Neoleg'] ./my_project
@@ -8,7 +8,7 @@
 ## Шаблон лицензии
 ```txt
 #File: {file} - имя файла
-#Project: {project} - дериктория проэкта
+#Project: {project} - дериктория проекта
 #Autor: {autor} - автор
 # Здесь идет текст лиценизи
 ```
